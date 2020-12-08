@@ -49,17 +49,17 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     
     21. How do we select a p element with a single class of “human”? ~~ p human {code goes here}
     
-    22. What is a parent child selector? When would this be useful? ~~
+    22. What is a parent child selector? When would this be useful? ~~ It is used to match direct children of other elements, and would be used when you want to be more precise.
     
-    23. How do you select all links within a div with the class of sidebar? ~~
+    23. How do you select all links within a div with the class of sidebar? ~~ .sidebar {code goes here}
     
-    24. What is a pseudo selector? ~~
+    24. What is a pseudo selector? ~~ They select elements that in a specific state.
     
-    25. What do we use the change the spacing between lines? ~~
+    25. What do we use to change the spacing between lines? ~~ line-height: value;
     
-    26. What do we use to change the spacing between letters? ~~
+    26. What do we use to change the spacing between letters? ~~ letter-spacing: value;
     
-    27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? ~~
+     27. What do we use to to change everything to CAPITALS? lowercase? Capitalize? ~~ text-transform: uppercase; text-transform: lowercase; text-transform: capitalize; 
     
     28. How do I add a 1px border around my div that is dotted and black? ~~ 
     
@@ -85,7 +85,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     
     35. How often should I commit to github? ~~ Whenver you update/change to save the changes to create versions.
     
-    36. What is the command we would use to push our repo up to github? ~~
+    36. What is the command we would use to push our repo up to github? ~~ git push
     
     37. Walk me through Lambda's git flow. ~~
 
