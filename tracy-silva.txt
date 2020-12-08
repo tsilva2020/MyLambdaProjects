@@ -79,7 +79,7 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
     
     32. Using the command line - how do I see a list of files/folders in my current folder? ~~ Type "ls".
     
-    33. How do I remove a file via the command line? Why do I have to be careful with this? ~~ You can remove a file by typing ( directions here) in the commandline. You need to be careful with it because you can end up deleting all of them by accident if you type (directions here).
+    33. How do I remove a file via the command line? Why do I have to be careful with this? ~~ You can remove a file by typing "del filename" in the commandline. You need to be careful with it because you can end up deleting all of them by accident.
     
     34. Why should I use version control? ~~ Incase you make mistakes or have to roll back the changes for any reason.
     
@@ -91,8 +91,10 @@ Copy the questions below into the first-lastname.txt file on your github repo - 
 
 Stretch Questions
 
-    1. What is the difference between an inline element and a block element? ~~
-    2. What happens when an element is positioned absolutely? ~~
-    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? ~~
+    1. What is the difference between an inline element and a block element? ~~ Inline doesn't force a new line, block does.
+    
+    2. What happens when an element is positioned absolutely? ~~ Can place the element anywhere you want and is removed from the flow of the rest of the page.
+    
+    3. How do I make an element take up only the amount of space it needs but also have the ability to give it a width? ~~ 
     4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default. ~~
     5. In your own words, explain the box model. What is the "fix" for the box model, in other words, how do we make all elements respect the width we've given them? ~~
